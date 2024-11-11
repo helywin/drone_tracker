@@ -1,1 +1,0 @@
-System.register([],(function(t,o){"use strict";return{execute:function(){const o=t("Ok","确定"),e=t("Cancel","取消"),u=t("Confirm","确认"),r=t("Support","支持"),p=t("NotSupport","不支持"),n=t("BluetoothNotSupported","您的浏览器不支持蓝牙接口");t("default",{Ok:o,Cancel:e,Confirm:u,Support:r,NotSupport:p,BluetoothNotSupported:n})}}}));

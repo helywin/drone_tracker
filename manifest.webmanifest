@@ -1,1 +1,1 @@
-{"name":"radio_tracker","short_name":"radio_tracker","start_url":"/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/"}
+{"name":"Drone Tracker","short_name":"Drone Tracker","start_url":"/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/","description":"A drone tracking map app","theme_color":"#ffffff","icons":[{"src":"/favicon.png","sizes":"192x192","type":"image/png"},{"src":"/favicon.png","sizes":"512x512","type":"image/png"}]}

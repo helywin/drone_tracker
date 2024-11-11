@@ -1,1 +1,0 @@
-const o="确定",t="取消",p="确认",n="支持",c="不支持",r="您的浏览器不支持蓝牙接口",u={Ok:o,Cancel:t,Confirm:p,Support:n,NotSupport:c,BluetoothNotSupported:r};export{r as BluetoothNotSupported,t as Cancel,p as Confirm,c as NotSupport,o as Ok,n as Support,u as default};
