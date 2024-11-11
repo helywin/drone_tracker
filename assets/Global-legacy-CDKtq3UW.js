@@ -1,0 +1,1 @@
+System.register([],(function(t,e){"use strict";return{execute:function(){const e=t("Ok","确定"),o=t("Cancel","取消"),r=t("Confirm","确认"),n=t("Support","支持"),u=t("NotSupport","不支持");t("default",{Ok:e,Cancel:o,Confirm:r,Support:n,NotSupport:u})}}}));
