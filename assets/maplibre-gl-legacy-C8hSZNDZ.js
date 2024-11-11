@@ -1,4 +1,4 @@
-System.register(["./index-legacy-CDBmiVQf.js"],(function(t,e){"use strict";var i;return{setters:[t=>{i=t.y,t.z}],execute:function(){function e(t,e){for(var i=0;i<e.length;i++){const r=e[i];if("string"!=typeof r&&!Array.isArray(r))for(const e in r)if("default"!==e&&!(e in t)){const i=Object.getOwnPropertyDescriptor(r,e);i&&Object.defineProperty(t,e,i.get?i:{enumerable:!0,get:()=>r[e]})}}return Object.freeze(Object.defineProperty(t,Symbol.toStringTag,{value:"Module"}))}var r={exports:{}};
+System.register(["./index-legacy-CATLjFhm.js"],(function(t,e){"use strict";var i;return{setters:[t=>{i=t.q,t.t}],execute:function(){function e(t,e){for(var i=0;i<e.length;i++){const r=e[i];if("string"!=typeof r&&!Array.isArray(r))for(const e in r)if("default"!==e&&!(e in t)){const i=Object.getOwnPropertyDescriptor(r,e);i&&Object.defineProperty(t,e,i.get?i:{enumerable:!0,get:()=>r[e]})}}return Object.freeze(Object.defineProperty(t,Symbol.toStringTag,{value:"Module"}))}var r={exports:{}};
 /**
              * MapLibre GL JS
              * @license 3-Clause BSD. Full text of license: https://github.com/maplibre/maplibre-gl-js/blob/v4.7.1/LICENSE.txt
