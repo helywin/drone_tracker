@@ -1,0 +1,1 @@
+const o="Cancel",t="Ok",p="Confirm",r="Support",n="Not Support",e="Your browser does not support Bluetooth interface",u={Cancel:o,Ok:t,Confirm:p,Support:r,NotSupport:n,BluetoothNotSupported:e};export{e as BluetoothNotSupported,o as Cancel,p as Confirm,n as NotSupport,t as Ok,r as Support,u as default};
